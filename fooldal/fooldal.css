@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(136, 136, 136);
+}
+.doboz{
+    background-color: #fff;
+    width: 90%;
+    justify-content: center;
+}
+header{
+    background-image: url(../kepek/kek_eg.jpg);
+    text-align: center;
+}
+#klubh1{
+    color: yellow;
+}
+h4{
+    margin-bottom: 0;
+}
+nav{
+    background-image: url(../kepek/menu_hatter.png);
+    text-align: center;
+}
+nav ul{
+    margin: 0;
+}
+li{
+    display: inline;
+    padding-right: 90px;
+    position: relative;
+    left: 25px;
+}
+li a{
+    text-decoration: none;
+    color: #fff;
+}
+.pcim{
+    color: blue;
+    letter-spacing: 5px;
+}
+.pinfok{
+    padding-left: 70px;
+}
+p{
+    padding-left: 40px;
+}
+main h1{
+    text-align: center;
+}
