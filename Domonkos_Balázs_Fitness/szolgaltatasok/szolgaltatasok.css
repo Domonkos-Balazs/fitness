@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(117, 116, 116);
+}
+.container{
+    width: 800px;
+    background-color: #fff;
+    position: relative;
+    left: 28%;
+}
+header{
+    background-image: url(../kepek/kek_eg.jpg);
+    text-align: center;
+    padding-bottom: 1px;
+}
+#headerh1{
+    color: yellow;
+}
+nav{
+    background-image: url(../kepek/menu_hatter.png);
+    text-align: center;
+}
+nav li{
+    display: inline-block;
+    padding-right: 60px;
+    position: relative;
+    left: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: #fff;
+}
+nav ul{
+    margin: 0;
+}
+#menuh1{
+    text-align: center;
+    padding-bottom: 40px;
+    padding-right: 35px;
+}
+.szolgalmenu{
+    line-height: 5px;
+}
+.szolgaltable{
+    line-height: 15px;
+    margin-bottom: 20px;
+}
+#kombi{
+    padding-bottom: 30px;
+}

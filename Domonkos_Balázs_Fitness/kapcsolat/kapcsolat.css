@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(117, 116, 116);
+}
+.container{
+    width: 800px;
+    background-color: #fff;
+    position: relative;
+    left: 28%;
+}
+header{
+    background-image: url(../kepek/kek_eg.jpg);
+    text-align: center;
+    padding-bottom: 1px;
+}
+#headerh1{
+    color: yellow;
+}
+nav{
+    background-image: url(../kepek/menu_hatter.png);
+    text-align: center;
+}
+nav li{
+    display: inline-block;
+    padding-right: 60px;
+    position: relative;
+    left: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: #fff;
+}
+nav ul{
+    margin: 0;
+}
+#menuh1{
+    text-align: center;
+    padding-right: 35px;
+    font-size: 40px;
+    margin-bottom: -20px;
+}
+.hossz{
+    width: 80%;
+    border-radius: 4px;
+    border: 2px solid lightgray;
+    margin-bottom: 20px;
+}
+#szauna{
+    margin-bottom: 20px;
+}
+p{
+    margin-bottom: -20px;
+}
+p,label,input{
+    font-size: 20px;
+}
+button{
+    margin-bottom: 40px;
+}
+button:hover{
+    cursor: pointer;
+    padding: 10px 15px;
+    background-color: aqua;
+}
